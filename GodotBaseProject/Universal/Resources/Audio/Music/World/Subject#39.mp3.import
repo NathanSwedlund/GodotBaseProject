@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Subject#39.mp3-960b981972f34b43e0a33d562d1a6ea2.mp3str"
+
+[deps]
+
+source_file="res://Universal/Resources/Audio/Music/World/Subject#39.mp3"
+dest_files=[ "res://.import/Subject#39.mp3-960b981972f34b43e0a33d562d1a6ea2.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

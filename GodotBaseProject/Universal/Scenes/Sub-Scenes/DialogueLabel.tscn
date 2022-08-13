@@ -1,0 +1,22 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://Scripts/DialogueLabel.gd" type="Script" id=1]
+[ext_resource path="res://Universal/Resources/Audio/FX/GainPoint2.wav" type="AudioStream" id=2]
+[ext_resource path="res://Universal/Resources/Audio/FX/OneUp.wav" type="AudioStream" id=3]
+[ext_resource path="res://Universal/Resources/Audio/FX/Laser1.wav" type="AudioStream" id=4]
+
+[node name="DialogueLabel" type="Label"]
+margin_right = 40.0
+margin_bottom = 14.0
+script = ExtResource( 1 )
+char_per_second_overrides = [ 0, 5 ]
+dialogue_strings = [ "The birds are singing, the flowers are blooming... On days like this kids like you should be ", "
+BURNING
+IN
+HELL", "*You feel like you are going to have a bad time*" ]
+dialogue_behavior_overrides = [ "Replace W/O Acknowledgement", "Append W/O Acknowledgement" ]
+typing_sound = ExtResource( 2 )
+typing_pitch_overrides = [ 0.0, 0.15 ]
+typing_sounds_override = [ null, ExtResource( 4 ), ExtResource( 3 ) ]
+
+[node name="TypingSound" type="AudioStreamPlayer" parent="."]

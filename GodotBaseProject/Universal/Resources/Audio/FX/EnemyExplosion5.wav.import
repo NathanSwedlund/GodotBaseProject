@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/EnemyExplosion5.wav-97e2d7ea0aa07acdf17e3a19650d402a.sample"
+
+[deps]
+
+source_file="res://Universal/Resources/Audio/FX/EnemyExplosion5.wav"
+dest_files=[ "res://.import/EnemyExplosion5.wav-97e2d7ea0aa07acdf17e3a19650d402a.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

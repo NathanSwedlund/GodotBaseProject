@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/OpeningSceneCharAppear.mp3-07641c6629f04e5b73e18a3f308513b3.mp3str"
+
+[deps]
+
+source_file="res://Universal/Resources/Audio/FX/OpeningSceneCharAppear.mp3"
+dest_files=[ "res://.import/OpeningSceneCharAppear.mp3-07641c6629f04e5b73e18a3f308513b3.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

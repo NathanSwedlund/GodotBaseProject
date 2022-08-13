@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/G-One.mp3-85614c27901080b8cd19b5100b9629e8.mp3str"
+
+[deps]
+
+source_file="res://Universal/Resources/Audio/Music/Menus/G-One.mp3"
+dest_files=[ "res://.import/G-One.mp3-85614c27901080b8cd19b5100b9629e8.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
